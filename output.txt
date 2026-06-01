@@ -1,0 +1,11 @@
+AI Chatbot Started!
+Type 'bye' to exit.
+
+You: hello
+Bot: Hello! How can I help you?
+You: hoe are you
+Bot: Sorry, I don't understand that.
+You: what is your name
+Bot: I am a Rule-Based AI Chatbot.
+You: bye
+Bot: Goodbye! Have a nice day.
